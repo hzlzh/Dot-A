@@ -1,1 +1,1 @@
-Git for WordPress Theme: Dot-A
+Git for WordPress Theme: Dot-A.
